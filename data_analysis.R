@@ -19,3 +19,5 @@ head(sales)
 glimpse(stores)
 glimpse(features)
 glimpse(sales)
+
+create_report(features)
